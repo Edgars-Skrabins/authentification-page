@@ -62,7 +62,7 @@ btnCheckoutContinue.addEventListener("click", () =>
 //     })
 // }
 
-async function switchSections(sectionName: string): Promise<void> {
+function switchSections(sectionName: string):void {
     sectionList.forEach(section =>
     {
         section.classList.add("hidden");
