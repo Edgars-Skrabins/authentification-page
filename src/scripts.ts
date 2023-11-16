@@ -20,28 +20,28 @@ sectionList.push(document.getElementById("section-checkout"));
 
 
 const btnSignIn:HTMLElement = document.getElementById("btn-login-signin");
-btnSignIn.addEventListener("click", () =>
+btnSignIn.addEventListener("click", (event) =>
 {
     event.preventDefault();
     switchSections("section-contact");
 })
 
 const btnContactSubmit:HTMLElement = document.getElementById("btn-contact-submit");
-btnContactSubmit.addEventListener("click", () =>
+btnContactSubmit.addEventListener("click", (event) =>
 {
     event.preventDefault();
     switchSections("section-contact-info");
 })
 
 const btnContactInfoSubmit:HTMLElement = document.getElementById("btn-contact-info-submit");
-btnContactInfoSubmit.addEventListener("click", () =>
+btnContactInfoSubmit.addEventListener("click", (event) =>
 {
     event.preventDefault();
     switchSections("section-checkout");
 })
 
 const btnCheckoutContinue:HTMLElement = document.getElementById("btn-checkout-continue");
-btnCheckoutContinue.addEventListener("click", () =>
+btnCheckoutContinue.addEventListener("click", (event) =>
 {
     event.preventDefault();
     switchSections("section-login");

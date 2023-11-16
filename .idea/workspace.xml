@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b5717f2-f66c-41ee-a558-0ee8e7c8c0fb" name="Changes" comment="init">
+    <list default="true" id="0b5717f2-f66c-41ee-a558-0ee8e7c8c0fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts.ts" afterDir="false" />
     </list>
@@ -56,8 +56,18 @@
       <workItem from="1699006967499" duration="29716000" />
       <workItem from="1699271401592" duration="834000" />
       <workItem from="1699313388981" duration="253000" />
-      <workItem from="1699553081525" duration="334000" />
+      <workItem from="1699553081525" duration="384000" />
+      <workItem from="1699614062807" duration="1000000" />
     </task>
+    <task id="LOCAL-00001" summary="Function return type change to void">
+      <option name="closed" value="true" />
+      <created>1699553434576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699553434576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +78,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Authentification_Page" />
     </ignored-roots>
+    <MESSAGE value="init" />
+    <MESSAGE value="Function return type change to void" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function return type change to void" />
   </component>
 </project>
