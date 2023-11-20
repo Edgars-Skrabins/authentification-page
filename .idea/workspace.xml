@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b5717f2-f66c-41ee-a558-0ee8e7c8c0fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,8 @@
       <workItem from="1699313388981" duration="253000" />
       <workItem from="1699553081525" duration="384000" />
       <workItem from="1699614062807" duration="1000000" />
+      <workItem from="1700490635873" duration="72000" />
+      <workItem from="1700491345895" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="Function return type change to void">
       <option name="closed" value="true" />
